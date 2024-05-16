@@ -19,10 +19,10 @@ import time
 
 tableau_server_config = {
         'my_env': {
-                'server': 'https://tableau.wfscorp.com',
-                'api_version': '3.17',
-                'personal_access_token_name': 'svctableaudev',
-                'personal_access_token_secret': 'KWLxK+3JRl6AfglMA5iXPQ==:gsXXRO8x03oeXkeDE02mBUoNWj6c4UmU',
+                'server': '',
+                'api_version': '',
+                'personal_access_token_name': '',
+                'personal_access_token_secret': '',
                 'site_name': 'Internal',
                 'site_url': ''
         }
@@ -93,10 +93,10 @@ import time
 
 tableau_server_config = {
         'my_env': {
-                'server': 'https://tableau.wfscorp.com',
+                'server': '',
                 'api_version': '3.17',
-                'personal_access_token_name': 'svctableaudev',
-                'personal_access_token_secret': 'KWLxK+3JRl6AfglMA5iXPQ==:gsXXRO8x03oeXkeDE02mBUoNWj6c4UmU',
+                'personal_access_token_name': '',
+                'personal_access_token_secret': '',
                 'site_name': 'Internal',
                 'site_url': ''
         }
